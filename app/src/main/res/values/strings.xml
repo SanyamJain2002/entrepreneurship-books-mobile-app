@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Entrepreneurship Books</string>
+    <string name="book1">1. The Lean Startup by Eric Ries</string>
+    <string name="book2">2. Zero To One by Peter Thiel</string>
+    <string name="book3">3. The Hard Thing About Hard Things by Ben Horowitz</string>
+    <string name="book4">4. The $100 Startup by Chris Guille beau</string>
+    <string name="book5">5. The E-Myth Revisited by Michael E. Gerber</string>
+    <string name="book6">6. Crush It by Gary Vaynerchuk</string>
+    <string name="book7">7. The Art Of The Start by Guy Kawasaki</string>
+    <string name="book8">8. The Power Of Broke by Daymond John</string>
+    <string name="book9">9. Rework by Jason Fried</string>
+    <string name="book10">10. Crushing It by Gary Vaynerchuk</string>
+
+
+    <string name="des1">The Lean Startup offers both entrepreneurs and wantrepreneurs a semi-scientific, real-world approach to building a business by using validation, finding a profitable business model and creating a growth engine.</string>
+    <string name="des2">Zero To One is an inside look at Peter Thiel’s philosophy and strategy for making your startup a success by looking at the lessons he learned from founding and selling PayPal, investing in Facebook and becoming a billionaire in the process.</string>
+    <string name="des3">The Hard Thing About Hard Things is an inside look at the tough decisions and lonely times all CEOs face, before showing you what it takes to build a great organization and become a world-class leader. </string>
+    <string name="des4">The $100 Startup shows you how to break free from the shackles of 9 to 5 by combining your passion and skills into your own microbusiness, which you can start for $100 or less, yet still turn into a full time income, thanks to the power of the internet. </string>
+    <string name="des5">The E-Myth Revisited explains why 80% of small businesses fail, and how to ensure yours isn’t among those by building a company that’s based on systems and not on the work of a single individual. </string>
+    <string name="des6">Crush It is the blueprint you need to turn your passion into your profession and will give you the tools to turn yourself into a brand, leverage social media, produce great content and reap the financial benefits of it. </string>
+    <string name="des7">The Art Of The Start is your guide to beginning a company and explains everything from getting the right people on board to writing a winning business plan and building your brand. </string>
+    <string name="des8">The Power Of Broke shows you how to leverage having no money into an advantage in business by compensating it with creativity, passion and authenticity.</string>
+    <string name="des9">Rework shows you that you need less than you think to start a business – way less – by explaining why plans are actually harmful, how productivity isn’t a result from working long hours and why hiring and seeking investors should be your absolute last resort.</string>
+    <string name="des10">Crushing It is Gary Vaynerchuk’s follow-up to his personal branding manifesto Crush It, in which he reiterates the importance of a personal brand and shows you the endless possibilities that come with building one today. </string>
+</resources>
